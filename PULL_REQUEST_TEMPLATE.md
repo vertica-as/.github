@@ -14,7 +14,7 @@ _Any notes about the solution that the reviewers should be aware of._
 
 ### 🔍 Findings
 _Describe any interesting findings that came from the development process._
-> **Note:** Should these findings be shared with the rest of the App Team?
+> **Note:** Should these findings be shared with the rest of the team?
 
 ## 🏞️ Screenshots / Previews / GIFs
 
